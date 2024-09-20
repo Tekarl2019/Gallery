@@ -22,7 +22,9 @@ header{
     justify-content: center;
     align-items: center;
     width: 100%;
-    border-bottom: 1px solid rgba(171, 34, 42, 0.3);
+    color: #ab222a;
+    padding-top: 64px;
+    /* border-bottom: 1px solid rgba(171, 34, 42, 0.3); */
 }
 
 /*=============================================================*/
