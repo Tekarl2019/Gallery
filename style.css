@@ -103,19 +103,19 @@ input:checked + label {
 }
 
 label[for="card1"]{
-    background-image: url(img/nature.jpg)
+    background-image: url(img/nature.jpg);
 }
 label[for="card2"]{
-    background-image: url(img/folkstone.jpg)
+    background-image: url(img/folkstone.jpg);
 }
 label[for="card3"]{
-    background-image: url(img/lake-1.jpg)
+    background-image: url(img/lake-1.jpg);
 }
 label[for="card4"]{
-    background-image: url(img/architecture.jpg)
+    background-image: url(img/architecture.jpg);
 }
 label[for="card5"]{
-    background-image: url(img/lake-2.jpg)
+    background-image: url(img/lake-2.jpg);
 }
 
 
